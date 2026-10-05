@@ -95,12 +95,12 @@ function ContactPage() {
               The full CV, ready to download
             </h2>
             <p className="mt-1 text-sm text-muted-foreground">
-              Word document — covers the complete experience, skills, and education.
+              PDF document — covers the complete experience, skills, and education.
             </p>
           </div>
           <a
-            href={"/Abdulrahman_Elsisy_CV.docx"}
-            download="Abdulrahman_Elsisy_CV.docx"
+            href={"/Abdulrahman_Elsisy_CV_ATS.pdf"}
+            download="Abdulrahman_Elsisy_CV_ATS.pdf"
             className="inline-flex shrink-0 items-center gap-2 rounded-lg bg-primary px-4 py-2.5 text-sm font-medium text-primary-foreground ring-1 ring-primary/30 transition-transform hover:-translate-y-0.5"
           >
             <ArrowDown className="size-4" aria-hidden="true" />

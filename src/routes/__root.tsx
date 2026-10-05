@@ -179,8 +179,8 @@ function RootComponent() {
           </nav>
           <a
             className="inline-flex shrink-0 items-center gap-2 rounded-lg bg-primary px-3 py-2 text-xs font-medium text-primary-foreground ring-1 ring-primary/30 transition-transform hover:-translate-y-0.5 sm:text-sm"
-            href={"/Abdulrahman_Elsisy_CV.docx"}
-            download="Abdulrahman_Elsisy_CV.docx"
+            href={"/Abdulrahman_Elsisy_CV_ATS.pdf"}
+            download="Abdulrahman_Elsisy_CV_ATS.pdf"
           >
             <ArrowDown className="size-4" aria-hidden="true" />
             <span className="hidden sm:inline">Download CV</span>

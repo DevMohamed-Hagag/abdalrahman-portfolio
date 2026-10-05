@@ -84,8 +84,8 @@ function Index() {
                 <ArrowRight className="size-4" aria-hidden="true" />
               </Link>
               <a
-                href={"/Abdulrahman_Elsisy_CV.docx"}
-                download="Abdulrahman_Elsisy_CV.docx"
+                href={"/Abdulrahman_Elsisy_CV_ATS.pdf"}
+                download="Abdulrahman_Elsisy_CV_ATS.pdf"
                 className="inline-flex items-center gap-2 rounded-lg border border-glass-border bg-glass px-4 py-2.5 text-sm font-medium text-foreground backdrop-blur transition-colors hover:border-primary/40 hover:text-primary"
               >
                 <ArrowDown className="size-4" aria-hidden="true" />
